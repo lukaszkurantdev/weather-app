@@ -9,6 +9,6 @@ Simple weather mobile app - recruitment task.
 
 ## Screens
 
-<img src="./screens/s1.jpg">
-<img src="./screens/s2.jpg">
-<img src="./screens/s3.jpg">
+<img src="./screens/s1.jpg" width="250px">
+<img src="./screens/s2.jpg" width="250px">
+<img src="./screens/s3.jpg" width="250px">
